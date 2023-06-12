@@ -1,2 +1,6 @@
-# patika-ilk-odev
- html
+# patika
+
+- başlık ekleyerek adımı soyadımı yazdım
+- sosyal medya adresimin linkini koydum
+- hobilerimden bahsettim
+- bir tane form yaptım
