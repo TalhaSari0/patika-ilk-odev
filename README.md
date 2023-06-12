@@ -1,4 +1,4 @@
-# patika
+# patika ilk ödev
 
 - başlık ekleyerek adımı soyadımı yazdım
 - sosyal medya adresimin linkini koydum
